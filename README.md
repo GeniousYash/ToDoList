@@ -1,2 +1,2 @@
 # ToDoList
-Using HTML,CSS,JS,EJS (BeckEnd);
+Using HTML,CSS,JS,EJS (BeckEnd:-MERN);
